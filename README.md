@@ -506,18 +506,18 @@ Collibra is an enterprise data catalog that helps to discover and understand dat
 
 |Based on Open Standard | Search-based | Network-based | Lineage-based | Federation | ML 1st Citizen | Data Quality | End-to-end Lineage | Observability | Column-level lineage | Data collaboration |
 |:--:|:---:|:--:|:---:|:--:|:---:|:-:|:--:|:--:|:--:|:--:|  
-| ❌ | ✔️ | ?  | ✔️ | ❌ | ❌ | ? | ❌ | ❌ | ❌ | ❌ |
+| ❌ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ |
 
 <details>
 <summary>More features</summary>
 <br>
 <ul>
-<li><b>Strategy:</b> Push </li>
+<li><b>Strategy:</b> Push/Pull </li>
 <li><b>UX personalization:</b> Yes</li> 
-<li><b>AI autowiring:</b> ?</li> 
-<li><b>Network-based:</b> No</li> 
-<li><b>Rich data profiling:</b> ?</li> 
-<li><b>Supported data sources:</b>  </li>
+<li><b>AI autowiring:</b> ? (in beta)</li> 
+<li><b>Network-based:</b> Yes</li> 
+<li><b>Rich data profiling:</b> [Yes](https://productresources.collibra.com/docs/collibra/latest/Content/Catalog/DataProfiling/co_about-data-profiling.htm?Highlight=data%20profiling)</li> 
+<li><b>Supported data sources:</b> [available Collibra connections](https://productresources.collibra.com/docs/collibra/latest/Content/Edge/EdgeConnections/to_available_Edge_Connections.htm)</li>
 </ul>
 </details>
 
